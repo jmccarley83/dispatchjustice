@@ -1,0 +1,16 @@
+{
+  "name": "DispatchJustice",
+  "short_name": "DispatchJustice",
+  "description": "An attorney in the palm of your hand",
+  "lang": "en",
+  "start_url": "https://www.dispatchjustice.com/",
+  "scope": "https://www.dispatchjustice.com/",
+  "display": "standalone",
+  "theme_color": "#0f151c",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/jmccarley83/dispatchjustice/main/dj_logo_words_navy.png",
+      "type": "image/png"
+    }
+  ]
+}
